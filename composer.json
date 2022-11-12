@@ -1,0 +1,11 @@
+{
+    "name": "elmurat/new",
+    "autoload": {
+        "psr-4": {
+            "Elmurat\\New\\": "src/"
+        }
+    },
+    "require": {
+        "imagine/imagine": "^1.3"
+    }
+}
